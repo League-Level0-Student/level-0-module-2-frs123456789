@@ -19,6 +19,12 @@ public class NasaCountdown {
 		// 3. Change the countdown to use the new starting point
 		
 		// 1. Print a countdown from 10 to 0 on the console
+		
+		for (int i = 10; i >-1 ; i--) {
+			
+			System.out.println();
+			
+		}
 	
 			// 4. Use the speak method to hear the countdown.
 		
